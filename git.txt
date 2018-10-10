@@ -1,0 +1,5 @@
+git init 
+git add filename
+git commit -m "Hola"
+git remote add origin <repo>
+git push -u origin master
